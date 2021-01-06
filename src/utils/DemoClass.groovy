@@ -4,7 +4,7 @@ class DemoClass{
     String name
     Integer age
 
-    def personInfo(Integer years){
+    def increaseAge(Integer years){
         this.age += years
     }
 }

@@ -10,6 +10,7 @@ def welcome(String name = 'human') {
 def info(String name = 'human') {
     def per = new utils.DemoClass()
     per.name = name
-    per.age = 21
+    per.age = 20
+     person.increaseAge(10)
     echo "Info: Name: ${per.name} - Age: ${per.age}"
 }
