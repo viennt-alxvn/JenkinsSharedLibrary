@@ -1,6 +1,6 @@
 package utils
 
-class Person{
+class Actor{
     String name
     Integer age
 
