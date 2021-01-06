@@ -1,6 +1,6 @@
 package utils
 
-class Person{
+class DemoClass{
     String name
     Integer age
 
